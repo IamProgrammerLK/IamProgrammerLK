@@ -1,5 +1,7 @@
-##I am a programmer, born in Sri Lanka, married to the computer, live on the internet, and always crack opening some codes. as a full-time freelancer and entrepreneur, I have professional and reliable experience in creative designing, computer programming, and code-cracking. mostly I work alone and silent. it keeps my mind calm, like a Bhavana. as a hobby, I'm seeking interplanetary exploration and extraterrestrial life, I believe they exist. technology is always growing. I'm happy to be part of it. I've only one rule, only one "Programming is like sex, I can't make a mistake".
-###<IamProgrammerLK/>
+# Who am I?
+## I am a programmer, born in Sri Lanka, married to the computer, live on the internet, and always crack opening some codes. as a full-time freelancer and entrepreneur, I have professional and reliable experience in creative designing, computer programming, and code-cracking. mostly I work alone and silent. it keeps my mind calm, like a Bhavana. as a hobby, I'm seeking interplanetary exploration and extraterrestrial life, I believe they exist. technology is always growing. I'm happy to be part of it. I've only one rule, only one 
+# "Programming is like sex, I can't make a mistake".
+### [< IamProgrammerLK/>](https://iamprogrammer.lk/)
 
 
 <!--
