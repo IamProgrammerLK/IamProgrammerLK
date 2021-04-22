@@ -3,6 +3,8 @@
 # "Programming is like sex, I can't make a mistake".
 ### [< IamProgrammerLK/>](https://iamprogrammer.lk/)
 
+![Twitter Followers](https://img.shields.io/twitter/follow/IamProgrammerLK?style=social)
+![Github Followers](https://img.shields.io/github/followers/IamProgrammerLK?style=social)
 
 <!--
 **IamProgrammerLK/IamProgrammerLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
