@@ -30,6 +30,12 @@
 
 
 
+
+## &#x1f4c8; My GitHub Stats
+
+[![IamProgrammerLK's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamProgrammerLK&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamProgrammerLK&hide=css,html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **IamProgrammerLK/IamProgrammerLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,3 +50,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
