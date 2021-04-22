@@ -33,8 +33,12 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![IamProgrammerLK's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamProgrammerLK&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamProgrammerLK&hide=css,html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/IamProgrammerLK/IamProgrammerLK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IamProgrammerLK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="IamProgrammerLK's GitHub Stats" />
+</a>
+<a href="https://github.com/IamProgrammerLK/IamProgrammerLK">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamProgrammerLK&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <!--
 **IamProgrammerLK/IamProgrammerLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
