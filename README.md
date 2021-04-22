@@ -16,6 +16,11 @@
 
 # Articles From My Blog
 <!-- BLOG-POST-LIST:START -->
+- [How to Install MinerGate CLI on Linux Ubuntu 18.04 and later.](https://blog.iamprogrammer.lk/2019/10/how-to-install-minergate-cli-on-linux.html)
+- [HBO is looking for Software Engineers and developers](https://blog.iamprogrammer.lk/2016/10/hbo-is-looking-for-software-engineers.html)
+- [Interactive Intelligence is looking for JavaScript and Node.js developers](https://blog.iamprogrammer.lk/2016/09/interactive-intelligence-is-looking-for.html)
+- [This is not a computer, It's my wife.](https://blog.iamprogrammer.lk/2016/08/this-is-not-computer-its-my-wife.html)
+- [Programming Is Like Sex](https://blog.iamprogrammer.lk/2016/05/programming-is-like-sex.html)
 <!-- BLOG-POST-LIST:END -->
 
 
