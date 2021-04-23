@@ -11,10 +11,6 @@
 
 
 
-
-<img src="https://simpleicons.org/icons/webassembly.svg" width="50" hight="50"/>
-
-
 # 📺 Videos From My Youtube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Running Codes on a Computer](https://www.youtube.com/watch?v=JjmVDO_9W_g)
