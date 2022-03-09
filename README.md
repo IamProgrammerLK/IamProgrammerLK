@@ -7,34 +7,7 @@
 
 
 # 🔧 Technologies I Use
-<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" hight="50"/>
-
-<img src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg" width="50" hight="50"/>
-<img src="https://cdn.cdnlogo.com/logos/c/59/css-3.svg" width="50" hight="50"/>
-
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" hight="50"/>
-
-<img src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg" width="50" hight="50"/>
-
-<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/brackets.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/composer.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/private-packagist.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/android.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="50" hight="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/windows-1.svg" width="50" hight="50"/>
-
+<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/dart.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" hight="50"/><img src="https://cdn.cdnlogo.com/logos/h/90/html-5.svg" width="50" hight="50"/><img src="https://cdn.cdnlogo.com/logos/c/59/css-3.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" hight="50"/><img src="https://cdn.cdnlogo.com/logos/m/10/mysql.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/brackets.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/composer.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/private-packagist.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/android.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" width="50" hight="50"/><img src="https://cdn.worldvectorlogo.com/logos/windows-1.svg" width="50" hight="50"/>
 
 
 # 📺 Videos From My Youtube Channel
