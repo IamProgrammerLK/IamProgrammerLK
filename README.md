@@ -12,7 +12,6 @@
 
 # 📺 Videos From My Youtube Channel
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [I am Programmer Live Stream](https://www.youtube.com/watch?v=wwl9-KFRKBM)
 - [Running Codes on a Computer](https://www.youtube.com/watch?v=JjmVDO_9W_g)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 [...Watch More](https://iamprogrammer.lk/)
